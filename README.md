@@ -6,3 +6,6 @@
    - Analzye the data such as how many hosts are frequently called 
    - How many urls are frequently called 
    - To display the total number of requests with 404 repsonses
+
+- To view the output: 
+ -Open a IDE and have the file ready to open in order to display the DataFrame along with the functions as the output.
